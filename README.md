@@ -51,8 +51,8 @@ Bienvenue dans **l'Application de Combat RPG**, un jeu de rôle dynamique et cap
 1. **Cloner le Dépôt**
 
    ```bash
-   git clone https://github.com/votreutilisateur/application-rpg-combat.git
-   cd application-rpg-combat
+   git clone https://github.com/Lawzen/RPG-Combat-v1.git
+   cd RPG-Combat-v1
 
 2. **Construire le Projet**
 
